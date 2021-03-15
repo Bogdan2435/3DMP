@@ -1,6 +1,6 @@
 # 3DMP -  Homework no. 1
-Soft deadline: 07.03.2021 | 23:59:59
-Hard deadline: 10.03.2021 | 23:59:59 (50% of the grade) 
+- Soft deadline: 07.03.2021 | 23:59:59
+- Hard deadline: 10.03.2021 | 23:59:59 (50% of the grade) 
 ## Tasks:
 - [x] Install Fusion 360 on your laptop
 - [x] Create an Autodesk student account and log yourself in using Fusion 360 on your laptop
