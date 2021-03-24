@@ -8,3 +8,4 @@ The program that we use is Fusion 360.
 
 - [x] Homework 1 - A keychain
 - [x] Homework 2 - A model downloaded from thingiverse and modified, 4 3D shapes (A1, A2, A3, A4) 
+- [x] Homework 3 - One of each chess piece (King, Queen, Bishop, Knight, Rook, Pawn)
