@@ -23,4 +23,4 @@ The SVG is a little bit stylized. The chess pieces contain smaller parts that ar
 
 
 - [x] Slice all the pieces in PrusaSlicer. 
-	    BONUS: Make the board as well. Multiply the pieces and align them on the board. Add appearance (videos about appearance can be found in the course).
+- [ ] BONUS: Make the board as well. Multiply the pieces and align them on the board. Add appearance (videos about appearance can be found in the course).
